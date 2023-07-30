@@ -1,16 +1,19 @@
-# skribbl_clone
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Skribbl.io Clone
+By: Yash Shivhare
+This is the code for Skribbl.io Clone developed with Flutter, Node.js, MongoDB along with Mongoose!
+Install the node modules of the frontend and the backend using: 
+```
+npm init
+```
+Run the backend using command(will open nodemon): 
+```
+npm run dev
+```
+Run the frontend using command:
+```
+flutter run
+```
+To open another frontend(i.e. app) to truly test open it on chrome using the command:
+```
+flutter run -d chrome
+```
